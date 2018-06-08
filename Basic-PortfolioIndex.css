@@ -1,0 +1,47 @@
+body {
+    background-image: url("Assets/images/what-the-hex.png")
+}
+
+
+header {
+    background-color:white;
+}
+
+
+nav {
+    float:right;
+
+}
+
+h1 {
+    float:left;
+    background-color:#4aaaa5;
+    color:white;
+    
+
+}
+
+.clearfix:after {
+    content:""; 
+    display:block;
+    clear:both;
+
+}
+
+img {
+    float:left;
+
+}
+
+footer {
+    clear:both;
+    height:50px;
+    background-color:grey;
+    text-align:center
+}
+
+
+section {
+    width:960px;
+    background-color:white;
+}
